@@ -1,0 +1,88 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node / Vite
+node_modules
+dist
+dist-ssr
+*.local
+.vite
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Tauri (Rust 构建产物)
+src-tauri/target/
+src-tauri/gen/
+
+# Android / Capacitor 构建产物
+android/.gradle/
+android/build/
+android/app/build/
+android/captures/
+android/local.properties
+android/app/release/
+android/app/debug/
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# 本地 Android SDK（不提交）
+android-sdk/
+
+# 项目本地备份文件
+index-原始.html
+index-初级.html
+mahjong-standalone.html
+mahjong-standalone-apk.html
+麻将训练.apk
+*.html.bak
+dist/成都麻将缺一门训练.exe
+
+# 环境变量 / 密钥
+.env
+.env.local
+.env.*.local
+
+# 系统文件
+Thumbs.db
+desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# Tauri 生成的应用配置
+src-tauri/WixTools/
+
+# Windows
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+Win32/
+ARM/
+ARM64/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Logs
+pids
+*.pid
+*.seed
+*.pid.lock

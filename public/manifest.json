@@ -1,0 +1,20 @@
+{
+  "name": "成都麻将缺一门训练",
+  "short_name": "麻将训练",
+  "description": "成都麻将缺一门舍牌训练工具",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a1a",
+  "theme_color": "#d97706",
+  "lang": "zh-CN",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
