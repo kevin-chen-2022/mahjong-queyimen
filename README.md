@@ -1,4 +1,4 @@
-## 缺一门-血战到底
+﻿## 缺一门-血战到底
 
 本人才疏学浅，对麻将所知不多，只是在前几天的陪练中逐渐熟悉了成都麻将-缺一门（又叫血战到底）的基础玩法，所以编写的这个工具就是围绕缺一门而展开，至于其他类型的麻将玩法，总体上差别不大，所以也应当具有一定的参考价值。
 
@@ -18,7 +18,7 @@
 
 无论采取哪种方式选牌，彼此之间都是实时联动更新：用户既可以从“确定选牌”和“确定输入”的角标数字上知晓已选的麻将总数，同时选中的牌也进入了手牌显示区，并在手牌标签页显示出来。
 
-![image.png](images/image.png)
+![image.png](images/pic01.png)
 
 ### 手牌
 
@@ -32,13 +32,13 @@
 
 #### 1、补牌删牌
 
-![image.png](images/image 1.png)
+![image.png](images/pic02.png)
 
-![image.png](images/image 2.png)
+![image.png](images/pic03.png)
 
 #### 2、手牌标注
 
-![image.png](images/image 3.png)
+![image.png](images/pic04.png)
 
 #### 3、向听判断
 
@@ -46,34 +46,34 @@
 
 3-1、一进听牌
 
-![image.png](images/image 4.png)
+![image.png](images/pic05.png)
 
 3-2、听牌牌型
 
-![image.png](images/image 5.png)
+![image.png](images/pic06.png)
 
 #### 4、最佳舍牌
 
 在手牌为2、5、8、11、14张时，可判断打出哪张为最佳舍牌。
 
-![image.png](images/image 6.png)
+![image.png](images/pic07.png)
 
 #### 5、手动舍牌
 
 判断手动舍牌是否符合牌效率，这特别适合模拟打牌，训练出牌质量。
 
-![image.png](images/image 7.png)
+![image.png](images/pic08.png)
 #### 6、保存牌组
 
 如果中意的手牌组合，可以点击“保存”，加上说明文字，存入本地数据库，方便以后浏览复盘。
 
-![image.png](images/image 8.png)
+![image.png](images/pic09.png)
 
 #### 7、撤销重做
 
 手牌操作带撤销重做功能，下拉框中有一个简要的历史记录可供回溯。
 
-![image.png](images/image 9.png)
+![image.png](images/pic10.png)
 
 
 ### 牌组库
@@ -82,24 +82,24 @@
 
 #### 1、设置显示范围
 
-![image.png](images/image 10.png)
+![image.png](images/pic11.png)
 
 #### 2、搜索关键词
 
-![image.png](images/image 11.png)
+![image.png](images/pic12.png)
 
 #### 3、分享-单条记录
 
 3-1、复制单条记录
 
-![image.png](images/image 12.png)
-![image.png](images/image 13.png)
+![image.png](images/pic13.png)
+![image.png](images/pic14.png)
 
 3-2、粘贴单条记录
 
-![image.png](images/image 14.png)
+![image.png](images/pic15.png)
 
-![image.png](images/image 15.png)
+![image.png](images/pic16.png)
 
 #### 4、导入导出数据库
 
@@ -107,13 +107,13 @@
 
 4-1、导出数据库
 
-![image.png](images/image 16.png)
+![image.png](images/pic17.png)
 
-![image.png](images/image 17.png)
+![image.png](images/pic18.png)
 
 4-2、导入数据库
 
-![image.png](images/image 18.png)
+![image.png](images/pic19.png)
 
 ## 写在最后
 
