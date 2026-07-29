@@ -18,7 +18,7 @@
 
 无论采取哪种方式选牌，彼此之间都是实时联动更新：用户既可以从“确定选牌”和“确定输入”的角标数字上知晓已选的麻将总数，同时选中的牌也进入了手牌显示区，并在手牌标签页显示出来。
 
-![image.png](https://cdn2.flowus.cn/oss/f4a7efe8-f19b-4767-a01d-551a6fd45715/image.png?time=1785239100&token=d2cfb1f3967e576ef2260dde3bd61f67a17a0cbb60a5d7f7c253a6198c4aac67&role=free)
+![image.png](images/image.png)
 
 ### 手牌
 
@@ -32,13 +32,13 @@
 
 #### 1、补牌删牌
 
-![image.png](https://cdn2.flowus.cn/oss/22a4474a-3e2f-4a82-ab26-a00cd677d2d2/image.png?time=1785239100&token=15f79bb887a2cc127e7d46ae2e771521ed0d41f73fdbce5be0b0aa97a798c284&role=free)
+![image.png](images/image 1.png)
 
-![image.png](https://cdn2.flowus.cn/oss/a8f89614-ecfb-4649-8371-08eed9dc76f9/image.png?time=1785239100&token=003a9f66ac9cfb3adad7fe358ffcd62921023ebbafe27816d9cc2681ed8ce7c8&role=free)
+![image.png](images/image 2.png)
 
 #### 2、手牌标注
 
-![image.png](https://cdn2.flowus.cn/oss/9a80bbb9-9648-41de-8e81-4bfa996a6559/image.png?time=1785239100&token=b15be7c077a9d365f38d314901efee63cb42f36853fea7144ec8df461611f5b3&role=free)
+![image.png](images/image 3.png)
 
 #### 3、向听判断
 
@@ -46,36 +46,34 @@
 
 3-1、一进听牌
 
-![image.png](https://cdn2.flowus.cn/oss/f9c33b1a-4a13-445c-87eb-391173cbd3be/image.png?time=1785239100&token=46bdd0da8bd536712716991f6587141666b1526a2cb84d66f578eaf347f38a14&role=free)
+![image.png](images/image 4.png)
 
 3-2、听牌牌型
 
-![image.png](https://cdn2.flowus.cn/oss/0a1b79ec-7cd1-4a12-ba49-fc9acaacd873/image.png?time=1785239100&token=e60b683dea908f5491a66ebe34570333e01e9ff1e4ca06ff24711540cacefb1b&role=free)
+![image.png](images/image 5.png)
 
 #### 4、最佳舍牌
 
 在手牌为2、5、8、11、14张时，可判断打出哪张为最佳舍牌。
 
-![image.png](https://cdn2.flowus.cn/oss/1ec47415-94f8-4e79-a96e-4df92bf27c3f/image.png?time=1785239100&token=2c205349104259d6f2783f5f27a52681fbcaf46386527f8cc6dcc3309a597c00&role=free)
+![image.png](images/image 6.png)
 
 #### 5、手动舍牌
 
 判断手动舍牌是否符合牌效率，这特别适合模拟打牌，训练出牌质量。
 
-![image.png](https://cdn2.flowus.cn/oss/e0e508c7-1495-4081-80a6-e2ebfe37c50a/image.png?time=1785239100&token=71da1d6830cd37bcb033ecabf450483f811eca562378df2e2c5eacc73ce02b16&role=free)
-
+![image.png](images/image 7.png)
 #### 6、保存牌组
 
 如果中意的手牌组合，可以点击“保存”，加上说明文字，存入本地数据库，方便以后浏览复盘。
 
-![image.png](https://cdn2.flowus.cn/oss/77b2720d-17f9-4884-adee-01bee74beffd/image.png?time=1785239100&token=cf45c696166e0f5beddf9bee0c835422d15c7b48cfd9d076f8a733439f4724df&role=free)
+![image.png](images/image 8.png)
 
 #### 7、撤销重做
 
 手牌操作带撤销重做功能，下拉框中有一个简要的历史记录可供回溯。
 
-![image.png](https://cdn2.flowus.cn/oss/77623fae-e513-4503-a676-60799859dbb3/image.png?time=1785239100&token=61d5353e4980c45c87f0049676a048e40b26408e3f8c0615e604cbc1cfdfa80b&role=free)
-
+![image.png](images/image 9.png)
 
 
 ### 牌组库
@@ -84,25 +82,24 @@
 
 #### 1、设置显示范围
 
-![image.png](https://cdn2.flowus.cn/oss/30676841-cd79-47a7-ba15-8175a8347448/image.png?time=1785239100&token=de5a602604527678c6839e57303e74ceac60435e503c832c748524939c1f487e&role=free)
+![image.png](images/image 10.png)
 
 #### 2、搜索关键词
 
-![image.png](https://cdn2.flowus.cn/oss/fbdcada6-fbf6-4b00-b669-2f1ccc6c4864/image.png?time=1785239100&token=53f984629ea05f6210011c0e7a6b3304c8060fd267b4aa30fdd30188ef24b7cb&role=free)
+![image.png](images/image 11.png)
 
 #### 3、分享-单条记录
 
 3-1、复制单条记录
 
-![image.png](https://cdn2.flowus.cn/oss/52dc05de-9e4c-44fc-9400-b9b1405239ca/image.png?time=1785239100&token=0e5fe1f7c507af98eecb6a279f5bdfa90477c5f5c291b89a4e3dcb2cee56aa8c&role=free)
-
-![image.png](https://cdn2.flowus.cn/oss/b39d0e18-208c-4c04-a7ef-02b3d49dafe5/image.png?time=1785239100&token=020e98283a4adfc3e5da9bf24dcb87c97fd4d8a19735fe162e5b22bc4c8287c6&role=free)
+![image.png](images/image 12.png)
+![image.png](images/image 13.png)
 
 3-2、粘贴单条记录
 
-![image.png](https://cdn2.flowus.cn/oss/29156d86-9817-4c0b-b808-e77155fe47da/image.png?time=1785239100&token=be32aa3ef7bd663f5b512dce6479eac2e8b2034ea6734ff16f3ae5a75dd7dcf8&role=free)
+![image.png](images/image 14.png)
 
-![image.png](https://cdn2.flowus.cn/oss/e42f365c-e55f-485e-bddd-091b30c603fc/image.png?time=1785239100&token=e9e85a94533ec38572e8bcb8bab218cbac2084806bbc4a54af1d01439809924c&role=free)
+![image.png](images/image 15.png)
 
 #### 4、导入导出数据库
 
@@ -110,13 +107,13 @@
 
 4-1、导出数据库
 
-![image.png](https://cdn2.flowus.cn/oss/78a09e24-6440-438c-9b23-98b300170023/image.png?time=1785239100&token=98ff99a86f907ded46492a9a1581882c91f9e218e920558b68d6f43098e05b2b&role=free)
+![image.png](images/image 16.png)
 
-![image.png](https://cdn2.flowus.cn/oss/ba7d3e33-6079-44e8-b716-b2ab41d3b7c6/image.png?time=1785239100&token=34f5df695ae1708082d64ca4ef6514fca365c16274acdb36afcfabd30a002329&role=free)
+![image.png](images/image 17.png)
 
 4-2、导入数据库
 
-![image.png](https://cdn2.flowus.cn/oss/8e6071cd-be7f-4017-89a2-7df5e7b494a5/image.png?time=1785239100&token=65f3cac5c83e34c77ae29c58be20ac7ed657d86d785f1e2024553bde1f0f3649&role=free)
+![image.png](images/image 18.png)
 
 ## 写在最后
 
